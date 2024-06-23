@@ -13,7 +13,7 @@ print on the screen the sum of those 2 numbers
 // Exercise 2: Check if a Number is Even or Odd
 
 aNumber <- USERINPUT 
-IF aNumber % 2 = 0 
+IF aNumber % 2 == 0 
  THEN 
 	PRINT "The number is even"
  ELSE
